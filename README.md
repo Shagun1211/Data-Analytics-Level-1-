@@ -12,6 +12,8 @@ This repository contains two Level-1 Data Analytics projects completed during my
 ### 🧾 Description:
 Performed exploratory data analysis on a retail sales dataset to extract business insights, uncover trends, and visualize customer and product behavior.
 
+- [Kaggle Retail Dataset](https://www.kaggle.com/datasets?search=retail+sales)
+
 ### ✅ Key Highlights:
 - Dataset included order dates, sales, customers, and products
 - Cleaned missing data and formatted time columns
@@ -32,6 +34,8 @@ Performed exploratory data analysis on a retail sales dataset to extract busines
 
 ### 🧾 Description:
 Demonstrated essential data cleaning techniques on messy datasets like Airbnb and YouTube data.
+
+-- [NYC Airbnb Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 ### ✅ Key Highlights:
 - Removed duplicates and handled missing values
